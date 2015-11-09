@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root "pages#home"
   get "about" => "pages#about" #pour action about du controler page
   get "home" => "pages#home" #pour page accueil
+  get "new" => "users#new"  #pour diriG vers le formulaire de contact
 
 
 

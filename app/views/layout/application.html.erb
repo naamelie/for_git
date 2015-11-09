@@ -10,9 +10,11 @@
 
   <%= link_to "About us", about_path %>
   <%= link_to "Accueil", home_path %>
-
-<%= yield %>		
-		
+  <%= link_to "Connexion", form_path %>
+  
+  <div class="container">
+    <%= yield %>		
+  </div>    	
 </body>		
 </html>
 
