@@ -1,6 +1,6 @@
 == README
 
-ce repo est un repo-tes afin de s'exercicer aux Commandes Git afin d'acquérir un bon workflow par la suite.
+ce repo est un repo-test afin de s'exercicer aux Commandes Git afin d'acquérir un bon workflow par la suite.
 Divers tests seront exécutés. 
 
 
