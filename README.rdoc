@@ -2,6 +2,9 @@
 
 Ici une modification pour readme, afin de procéder ensuite à l'effacement du commit concerné.
 ceci est un exercice.
+blablabla et blablabla
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
